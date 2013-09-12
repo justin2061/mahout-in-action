@@ -24,6 +24,12 @@
 
 今天正值第 29 个教师节, 仅以此书感谢我的老师, 以及帮助我的朋友!
 
+#### 编写方式
+
+本书的编写方式, 采用[开源书屋](http://weibo.com/oboooks)发展的一套开源电子书编写方案.
+使用 Pandoc's Markdown 标记语言进行编写, 利用 [mkbook](https://github.com/oboooks/mkbook) 生成电子书.
+本书的编写进度, 以及各个版本的发布, 敬请关注开源书屋[官方微博](http://weibo.com/oboooks).
+
 何永能
 
 2013 年 9 月 10 日
