@@ -1,0 +1,11 @@
+---
+lang: zh
+build: pdf
+template: book
+option: a5paper,openany
+dir.output: out
+dir.latex: .tex
+file.preface: index*.md
+file.chapters: chapter*.md
+file.appendix: appendix*.md
+name: 01-mahout-in-action
